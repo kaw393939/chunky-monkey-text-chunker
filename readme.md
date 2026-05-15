@@ -1,3 +1,25 @@
+# Chunky Monkey Text Chunker
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Command-line utility for splitting large text documents into manageable chunks for analysis and AI workflows.
+
+## What This Demonstrates
+- Document processing
+- AI preparation
+- command-line tooling
+
+## Stack
+Python
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # Chunky Monkey
 
 <img src="chunkymonkey.webp" alt="Chunky Monkey" width="100"/>
